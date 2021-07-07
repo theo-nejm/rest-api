@@ -79,7 +79,7 @@
 
 <hr style="background: rgba(0, 0, 255, .2)">
 
-## **Project dependencies:**
+## **Dependências do projeto:**
 
 <p style="font-size: 18px;">↝ O projeto usa node.js como plataforma para o backend e, obviamente, o Javascript como linguagem de programação.</p>
 
